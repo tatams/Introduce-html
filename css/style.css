@@ -1,0 +1,186 @@
+/* CSS Document */
+body
+{
+	margin: 0;
+	font-family: 'Prompt', sans-serif;
+	background-color:darksalmon;
+}
+header
+{
+	width: 100%;
+}
+footer fo
+{
+	
+}
+.banner-home
+{
+	background-image: url("../img/headtry.jpg");
+	height: 1000px;
+	width: auto;
+	background-size :cover;
+	background-position:center;
+	background-attachment:inherit;
+}
+.bart
+{
+	display: flex;
+	background-color:darkred;
+}
+.label1 
+{
+	font-family: 'Prompt', sans-serif;
+	padding: 300px 0px 0px 100px;
+}
+.label1 b
+{
+	font-size: 90px;
+	background-color:lightsalmon;
+	text-align: left;
+	padding-top: 0px;
+	letter-spacing: 2px;
+	margin-top: 0px;
+}
+.line1-banner-home 
+{
+	padding-right: 100px;
+	text-align: left;
+	width: 30%;
+	float: left;
+	line-height: 23px;
+	margin: 0px;
+}
+.s1  {padding-left: 10px;
+	margin-top: 5px;
+	padding-bottom: 5px;
+	
+}
+.bar nar ul li a
+{
+	text-decoration:none;
+	color: honeydew;
+	background-color:darkred;
+	display: block;
+	padding: 20px 30px 20px 30px;
+	text-align: left;
+}
+.bar nar ul li a:hover
+{
+	background-color:burlywood;
+	color: #030303;
+}
+nar ul
+{
+	margin:0;
+	padding-left: 0;	
+}
+.ad li
+{
+	text-decoration: none;
+	padding: 30px;
+	background-color:#9f1e23;
+	
+}
+.ad li:hover
+{
+	background-color:indianred;
+}
+	
+.fea-bt1
+{
+	display: flex;
+}
+
+.fea-bt2
+{
+	display: flex;
+}
+
+
+.copyright 
+{
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background-color:darkred;
+	color: #FFFFFF;
+	text-transform: uppercase;
+	font-weight: lighter;
+	letter-spacing: 2px;
+	border-top-width: 2px;
+}
+.ti1 {
+	font-family: 'Prompt', sans-serif;
+	padding-top: 100px;
+	font-size: 80px;}
+
+.detail2
+{
+	
+	letter-spacing: 1px;
+	padding-left: 200px;
+	padding-right: 200px;
+	font-size: 20px;
+}
+.detail1
+{
+	letter-spacing: 1px;
+	padding-left: 300px;
+	padding-right: 300px;
+	align: center;
+	background-color:wheat;
+}
+.detail11{
+	letter-spacing: 1px;
+	padding-left: 300px;
+	padding-right: 300px;
+	align: center;
+	background-color:darkseagreen;
+}
+.detail4
+{
+	letter-spacing: 1px;
+	padding-left: 200px;
+	padding-right: 200px;
+	list-style:square;
+}
+.d4{
+	letter-spacing: 1px;
+	padding-left: 200px;
+	padding-right: 200px;
+	background-color:wheat;
+}
+.he
+{
+	padding-left: 0px;
+	padding-right: 0px;
+}
+.com 
+{
+	padding-left: 0px;
+	padding-right: 0px;
+}
+.nus
+{
+	text-align: right;
+}
+.col 
+{
+	display: flex;
+}
+.pf
+{
+	padding-left: 50px;
+}
+.vdo{
+	background-color:wheat;
+}
+.detail2 h2{
+	color:darkred;
+}
+.detail2 p{
+	color:#3D1C1C;
+}
+.ioth{
+	background-color: wheat;
+}
